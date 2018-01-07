@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/lightman1998/lab13.svg?branch=master)](https://travis-ci.org/lightman1998/lab13)
+
 # Задание
 
 Написать программы на **C++** для сериализации и десериализации структуры `Person`.
